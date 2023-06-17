@@ -1,0 +1,4 @@
+2023-06-17 17:46:44,714 INFO 6 [egg:logger] init all loggers with options: {"dir":"/home/projects/stackblitz-starters-ayfe5h/logs/webcontainer-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"webcontainer-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2023-06-17 17:46:44,743 INFO 6 [egg:core] dump config after load, 15ms
+2023-06-17 17:46:44,800 INFO 6 [egg-watcher:agent] watcher start success
+2023-06-17 17:46:44,808 INFO 6 [egg:core] dump config after ready, 3ms
